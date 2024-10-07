@@ -1,6 +1,6 @@
 <h1>Hi, I'm Advithi👋</h1>
 
-<h3>Second-year Student 👩‍🎓 | Computer Science Engineering 💻</h3>
+<h3>Third-year Student 👩‍🎓 | Computer Science Engineering 💻</h3>
 <br>
 
 <h3 align="left">Connect with me:</h3>
