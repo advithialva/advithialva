@@ -1,5 +1,4 @@
 # Hi, I'm Advithi👋
-<img align='right' src='https://octodex.github.com/images/kimonotocat.png' width='250'>
 
 ### Third-year Student 👩‍🎓 | Computer Science Engineering 💻
 <br>
