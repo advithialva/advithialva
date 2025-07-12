@@ -1,6 +1,6 @@
 # Hi, I'm Advithi👋
 
-### Third-year Student 👩‍🎓 | Computer Science Engineering 💻
+### Fourth-year Student 👩‍🎓 | Computer Science Engineering 💻
 <br>
 
 ### Connect with me:
