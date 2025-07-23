@@ -1,7 +1,7 @@
 # Hi, I'm Advithi👋
 ###
 
-<img align="right" height="200" src="https://octodex.github.com/images/securitocat.png"  />
+<img align="right" height="250" src="https://octodex.github.com/images/securitocat.png"  />
 
 ###
 <ul>
