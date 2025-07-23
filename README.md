@@ -73,8 +73,8 @@
 ## Connect with me:
 <div align="left">
   <a href="https://www.linkedin.com/in/advithi-alva" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="linkedin logo"/></a>
-  <img width="10" />
+  <img width="15" />
   <a href="https://www.instagram.com/advithialva" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="30" alt="instagram logo" /></a>
-  <img width="10" />
+  <img width="15" />
   <a href="mailto:advithialva@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30" /></a>
 </div>
