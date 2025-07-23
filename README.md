@@ -5,9 +5,9 @@
 
 ###
 <ul>
-  <li>💻 Full-Stack Developer</li>
-  <li>🤖 Exploring AI/ML and data-driven technologies</li>
-  <li>👩‍🎓 Fourth-year Computer Science Engineering Student</li>
+  <li><strong>💻 Full-Stack Developer</strong></li>
+  <li><strong>🤖 Exploring AI/ML and data-driven technologies</strong></li>
+  <li><strong>👩‍🎓 Fourth-year Computer Science Engineering Student</strong></li>
 </ul>
 
 ### Tech Stack:
