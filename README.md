@@ -11,24 +11,33 @@
 </ul>
 
 ## Tech Stack:
-<div id="frontend" align="left">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" width="30" alt="C">
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="30" alt="C++">
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=py" width="30" alt="Python">
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=java" width="30" alt="Java">
+  <img width="2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="javascript logo"  />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="react logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" alt="nextjs logo"  />
   <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" width="30" alt="Vite">
   <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="typescript logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="html5 logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="css3 logo"  />
   <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="30" alt="tailwindcss logo"  />
-</div>
-<br>
-
-<div id="backend & database" align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="30" alt="Tailwind CSS">
+  <img width="2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" alt="bootstrap logo"  />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="nodejs logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=express" width="30" alt="express logo"  />
@@ -36,6 +45,8 @@
   <img src="https://skillicons.dev/icons?i=flask" width="30" alt="flask logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="30" alt="socketio logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=npm" width="30" alt="NPM">
   <img width="2" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="30" alt="mysql logo"  />
   <img width="2" />
@@ -46,10 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="python logo"  />
   <img width="2" />
   <img src="https://cdn.simpleicons.org/php/777BB4" width="30" alt="php logo"  />
-</div>
-<br>
-
-<div id="tech & tools " align="left">
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" alt="tensorflow logo"  />
   <img width="2" />
   <img src="https://cdn.simpleicons.org/git/F05032" width="30" alt="git logo"  />
@@ -59,6 +67,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="vscode logo"  />
   <img width="2" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="30" alt="postman logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=docker" width="30" alt="Docker">
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="30" alt="vercel logo"  />
+  <img width="2" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="30" alt="netlify logo"  />
   <img width="2" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="30" alt="jupyter logo"  />
   <img width="2" />
