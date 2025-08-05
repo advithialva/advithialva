@@ -7,7 +7,7 @@
 <ul>
   <li><strong>💻 Full-Stack Developer</strong></li>
   <li><strong>🤖 Exploring AI/ML and data-driven technologies</strong></li>
-  <li><strong>👩‍🎓 Fourth-year Computer Science Engineering Student</strong></li>
+  <li><strong>👩‍🎓 Final-year Computer Science Engineering Student</strong></li>
 </ul>
 
 ## Tech Stack:
