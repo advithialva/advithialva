@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Advithi 👋
+# < Hello, I'm Advithi /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <img align="right" height="200" src="https://octodex.github.com/images/securitocat.png"  />
 
