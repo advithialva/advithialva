@@ -1,17 +1,27 @@
-# Hi, I'm Advithi👋
-###
+<div align="center">
+
+# Hi, I'm Advithi 👋
 
 <img align="right" height="200" src="https://octodex.github.com/images/securitocat.png"  />
 
-###
-<ul>
-  <li><strong>💻 Full-Stack Developer</strong></li>
-  <li><strong>🤖 Exploring AI/ML and data-driven technologies</strong></li>
-  <li><strong>👩‍🎓 Final-year Computer Science Engineering Student</strong></li>
-</ul>
+</div>
 
-## Tech Stack:
-<div align="left">
+- 👩‍🎓 **Final-Year CS Engineering Student**
+- 💻 **Full-Stack Developer** | Building scalable web applications with modern tech stacks
+- 🤖 **AI/ML Enthusiast** | Specializing in computer vision, deep learning & intelligent systems
+- ⚡ Code. Learn. Build.
+
+<br/><br/>
+
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=advithialva&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+</div>
+
+## Tech Stack
+<div align="center">
   <img src="https://skillicons.dev/icons?i=c" width="30" alt="C">
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=cpp" width="30" alt="C++">
@@ -83,12 +93,18 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" width="30" alt="canva logo"  />
 </div>
 
+<br/>
 
-## Connect with me:
-<div align="left">
-  <a href="https://www.linkedin.com/in/advithi-alva" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="linkedin logo"/></a>
-  <img width="15" />
-  <a href="https://www.instagram.com/advithialva" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="30" alt="instagram logo" /></a>
-  <img width="15" />
-  <a href="mailto:advithialva@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30" /></a>
+<div align="center">
+
+## 💬 Let's Connect!
+
+**Open to collaborating on interesting projects and learning opportunities**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advithi-alva)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/advithialva)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advithialva@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=advithialva&color=blueviolet&style=flat-square)
+
 </div>
