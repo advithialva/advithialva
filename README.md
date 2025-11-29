@@ -2,16 +2,24 @@
 
 # < Hello, I'm Advithi /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<img align="right" height="200" src="https://octodex.github.com/images/securitocat.png"  />
-
+<!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="300"/> -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNtdTMxaDBsZTh3NjV1M3M5OG9qdzZmNmV2Z3o3N3Nsajh3Mnk5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="400" height="400"/>
 </div>
 
-- 👩‍🎓 **Final-Year CS Engineering Student**
-- 💻 **Full-Stack Developer** | Building scalable web applications with modern tech stacks
-- 🤖 **AI/ML Enthusiast** | Specializing in computer vision, deep learning & intelligent systems
-- ⚡ Code. Learn. Build.
+## About Me
 
-<br/><br/>
+- 👩‍🎓 **Final-Year CS Engineering Student** | building cool things that (usually) work on the first try  
+- 💻 **Full-Stack Developer** who loves clean UI, smooth UX, and scalable architectures  
+- 🤖 **AI/ML & Computer Vision Enthusiast** exploring deep learning, automation & all things intelligent    
+- 🌱 Learning: System Design & cloud deployments (to take my projects to the next level!)  
+- 👯 Open to teaming up on fun, impactful projects — AI, web dev, open source, anything exciting! 
+
+***
+<div align="center">
+     <b>Fun Fact:</b> My debugging skills ↑ when snacks are nearby. 🍪🧠 
+</div>
+
+***
 
 ## GitHub Stats
 
@@ -96,6 +104,8 @@
 <br/>
 
 <div align="center">
+
+
 
 ## 💬 Let's Connect!
 
