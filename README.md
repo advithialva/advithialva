@@ -7,9 +7,9 @@
 
 ## About Me
 
-- 👩‍🎓 **Final-Year CS Engineering Student** | building cool things that (usually) work on the first try  
-- 💻 **Full-Stack Developer** who loves clean UI, smooth UX, and scalable architectures  
-- 🤖 **AI/ML & Computer Vision Enthusiast** exploring deep learning, automation & all things intelligent    
+- 👩‍🎓 **Final-Year CS Engineering Student** | building cool things that (usually) work on the first try
+- - 🤖 **AI/ML & Computer Vision Enthusiast** exploring deep learning, automation & all things intelligent   
+- 💻 **Full-Stack Developer** who loves clean UI, smooth UX, and scalable architectures    
 - 🌱 Learning: System Design & cloud deployments (to take my projects to the next level!)  
 - 👯 Open to teaming up on fun, impactful projects — AI, web dev, open source, anything exciting! 
 
@@ -19,13 +19,6 @@
 </div>
 
 ***
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=advithialva&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-</div>
 
 ## Tech Stack
 <div align="center">
